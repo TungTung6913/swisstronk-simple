@@ -1,0 +1,1 @@
+# swisstronk-simple
